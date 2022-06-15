@@ -1,0 +1,38 @@
+[
+  {
+    "package": "cleanr",
+    "oncran": true
+  },
+  {
+    "package": "document",
+    "oncran": true
+  },
+  {
+    "package": "excerptr",
+    "oncran": true
+  },
+  {
+    "package": "fakemake",
+    "oncran": true
+  },
+  {
+    "package": "fritools",
+    "oncran": true
+  },
+  {
+    "package": "HandTill2001",
+    "oncran": true
+  },
+  {
+    "package": "maSAE",
+    "oncran": true
+  },
+  {
+    "package": "packager",
+    "oncran": true
+  },
+  {
+    "package": "rasciidoc",
+    "oncran": true
+  }
+]

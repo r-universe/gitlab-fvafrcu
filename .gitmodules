@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cleanr"]
+	path = cleanr
+	url = https://gitlab.com/fvafrcu/cleanr
+	shallow = true
+	registered = true
+[submodule "document"]
+	path = document
+	url = https://gitlab.com/fvafrcu/document
+	shallow = true
+	registered = true
+[submodule "excerptr"]
+	path = excerptr
+	url = https://gitlab.com/fvafrcu/excerptr
+	shallow = true
+	registered = true
+[submodule "fakemake"]
+	path = fakemake
+	url = https://gitlab.com/fvafrcu/fakemake
+	shallow = true
+	registered = true
+[submodule "fritools"]
+	path = fritools
+	url = https://gitlab.com/fvafrcu/fritools
+	shallow = true
+	registered = true
+[submodule "HandTill2001"]
+	path = HandTill2001
+	url = https://gitlab.com/fvafrcu/handtill2001
+	shallow = true
+	registered = true
+[submodule "maSAE"]
+	path = maSAE
+	url = https://gitlab.com/fvafrcu/masae
+	shallow = true
+	registered = true
+[submodule "packager"]
+	path = packager
+	url = https://gitlab.com/fvafrcu/packager
+	shallow = true
+	registered = true
+[submodule "rasciidoc"]
+	path = rasciidoc
+	url = https://gitlab.com/fvafrcu/rasciidoc
+	shallow = true
+	registered = true
