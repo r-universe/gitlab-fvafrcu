@@ -48,3 +48,8 @@
 	url = https://gitlab.com/fvafrcu/rasciidoc
 	shallow = true
 	registered = true
+[submodule "treePlotArea"]
+	path = treePlotArea
+	url = https://gitlab.com/fvafrcu/treeplotarea
+	shallow = true
+	registered = true

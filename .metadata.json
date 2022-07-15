@@ -34,5 +34,9 @@
   {
     "package": "rasciidoc",
     "oncran": true
+  },
+  {
+    "package": "treePlotArea",
+    "oncran": true
   }
 ]
